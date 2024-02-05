@@ -22,5 +22,5 @@ Access in KP-ABE is determined by a user's attributes matching the access policy
 
 MA-ABE extends ABE to support multiple authorities, enabling more flexible access control in a distributed environment.
 
-### Contribution Matters
+## Contribution Matters
 Feel free to contribute, report issues, or provide feedback. We welcome collaboration to enhance and extend the capabilities of health recording systems with secure attribute-based encryption.
